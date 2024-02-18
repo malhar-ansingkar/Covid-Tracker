@@ -1,7 +1,5 @@
 # Covid-cases Tracker 
 
-check out website : https://malhar-ansingkar.github.io/Covid-Tracker/
-
 * Shows COVID-19 data pictorially 
 
 
